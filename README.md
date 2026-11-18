@@ -5,4 +5,4 @@ Any code that I have done for this class.
 ## Structure
 
 ### final-presentation
-Partner presentation on measurement-based quantum computation.
+- Partner presentation on measurement-based quantum computation.
